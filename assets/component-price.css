@@ -23,8 +23,7 @@
   margin: 0 1rem 0 0;
 }
 
-.price__regular .price-item--regular {
-  color: #f00;
+.price__regular .price-item--regular {  
   margin-right: 0;
 }
 
