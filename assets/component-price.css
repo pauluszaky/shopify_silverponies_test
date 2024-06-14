@@ -24,6 +24,7 @@
 }
 
 .price__regular .price-item--regular {
+  color: #f00;
   margin-right: 0;
 }
 
